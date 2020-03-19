@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feefupoth.nes.party/sitemap.xml
